@@ -10,6 +10,11 @@
 
 ---
 
+- [ChatGPT Response](https://chatgpt.com/share/6a3a3d98-d68c-83ee-98a3-1083d32c52f5)
+- [Claude Response](https://claude.ai/share/904921d1-c6a5-4943-a9f7-807ff2221329)
+
+---
+
 ## Notes & Reflection
 
 - **The Big Distinction:** These tools are fundamentally **optimized for different workflows and outputs**. Chat is for knowledge, Coding is for writing/manipulating software, and Builder is for creating finished products.
