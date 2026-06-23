@@ -1,30 +1,66 @@
-# DeepSeek Assignment: Vague vs Specific Prompts
+# Adding Context to Improve AI Answers
 
-## Step 4: Compare Both Answers
+## Exercise Summary
 
-| **Vague Prompt: "How do I improve my English?"** | **Specific Prompt: "I am a 22-year-old engineering student in Lahore preparing for job interviews at IT companies in 2 months. Give me a 4-week plan to improve my spoken English."** |
-| :--- | :--- |
-| **Focus:** General English improvement for anyone | **Focus:** Job interview English for IT engineers in Lahore |
-| **Approach:** Generic shadowing, journaling, listening practice | **Approach:** Tech-specific (Rubber Duck Debugging, STAR method, LeetCode explanations) |
-| **Timeline:** 30-day challenge (4 weeks) | **Timeline:** 4-week intensive sprint |
-| **Examples:** TED Talks, movies, HelloTalk | **Examples:** LeetCode, FYP, Gaurav Sen, Pramp |
-| **Practice:** Shadowing, writing daily, language parent | **Practice:** Recording yourself, mock interviews, STAR stories |
-| **Vocabulary:** General collocations (make a decision) | **Vocabulary:** Tech collocations (implement a feature, deploy a build, roll back) |
-| **Cultural Context:** None | **Cultural Context:** Lahore-specific (Mall Road, Gulberg, Liberty, chai with friends, Dawn newspaper) |
-| **End Goal:** Sound native, be fluent | **End Goal:** Sound clear, logical, calm in IT interviews |
+This exercise demonstrates how adding **context** to a prompt dramatically improves the quality and relevance of AI responses.
 
-## Step 5: Which facts in the second prompt drove the better plan?
+---
 
-> "The specific prompt was more useful because it included these key facts that made the plan tailored and actionable:
->
-> 1. **Age (22)** → Plan assumed young, tech-savvy learner
-> 2. **Location (Lahore)** → Added local context (Gulberg, Liberty, chai culture, Dawn newspaper)
-> 3. **Profession (Engineering student)** → Focused on technical vocabulary and coding scenarios
-> 4. **Goal (Job interviews at IT companies)** → Included STAR method, mock interviews, LeetCode practice
-> 5. **Deadline (2 months)** → Created an urgent, structured 4-week sprint with daily checklist
-> 6. **Specific problem (Spoken English)** → Addressed pronunciation (Th, V/W sounds), filler words (umm/actually), and confidence"
+## Task
 
-## DeepSeek Links
+Compare two prompts — one vague, one specific — and analyze the difference in output quality.
 
-- [Vague Prompt Answer](https://chat.deepseek.com/share/3rf5zpyxz0wwe9d0el)
-- [Specific Prompt Answer](https://chat.deepseek.com/share/29bvref4seet1d4lgu)
+---
+
+## Prompts Used
+
+### ❌ Vague Prompt
+> "How do I improve my English?"
+
+🔗 [View Vague Prompt Answer](https://chat.deepseek.com/share/3rf5zpyxz0wwe9d0el)
+
+**Result:** Generic 5-step advice for anyone learning English — shadowing, journaling, HelloTalk, movies. Not personalized. Could apply to a 10-year-old or a 50-year-old.
+
+---
+
+### ✅ Specific Prompt (With Context)
+> "I am a 22-year-old engineering student in Lahore preparing for job interviews at IT companies in 2 months. Give me a 4-week plan to improve my spoken English."
+
+🔗 [View Specific Prompt Answer](https://chat.deepseek.com/share/29bvref4seet1d4lgu)
+
+**Result:** A structured 4-week sprint tailored for IT interview preparation — technical vocabulary, STAR method, mock interviews, Lahore-specific study hacks.
+
+---
+
+## Comparison Table
+
+| Feature | Vague Prompt | Specific Prompt |
+|---|---|---|
+| Format | Generic 5-step list | Structured 4-week sprint |
+| Audience | Anyone | Engineering student in Lahore |
+| Focus | General fluency | Technical speaking + IT interview prep |
+| Timeline | Open-ended | Week-by-week with daily time plan |
+| Local Relevance | None | Mall Road walks, Dawn newspaper, chai stops |
+| Usefulness | Moderate | High — immediately actionable |
+
+---
+
+## Step 5: Context Clues That Drove the Better Answer
+
+| Context Added | Impact on Response |
+|---|---|
+| `22-year-old engineering student` | Focused on technical vocabulary, LeetCode, rubber ducking |
+| `Lahore` | Added Lahore-specific study hacks (Gulberg, Liberty, Dawn) |
+| `IT companies` | Shifted to STAR method, mock interviews, problem-solving narratives |
+| `job interviews` | Added HR round prep, elevator pitch, behavioral questions |
+| `2 months` | Created a realistic 4-week structured sprint with urgency |
+
+---
+
+## Key Lesson
+
+> **Context is fuel for quality.**
+> The more specific your situation (who you are, where you are, what your goal is, and your timeline), the more tailored and actionable the AI's response becomes.
+
+A vague prompt gets generic advice.
+A contextual prompt gets a **personalized plan**.
