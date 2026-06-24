@@ -22,6 +22,8 @@ Discount = 20% of 2000
 
 Price after discount = 2000 − 400 = **1600**
 
+![Math Problem Comparison](https://github.com/HadiqaGohar/S4S/blob/main/Math%20Problem%20Comparison.jpeg?raw=true)
+
 ---
 
 ### Step 2: Apply 5% Sales Tax
