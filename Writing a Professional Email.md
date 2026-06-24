@@ -76,7 +76,7 @@ https://gemini.google.com/share/d593d405fdf3
 
 ### GitHub Screenshot Proof
 
-https://github.com/HadiqaGohar/S4S/blob/main/S4S%20SS.png
+![Task Screenshot](https://raw.githubusercontent.com/HadiqaGohar/S4S/main/S4S%20SS.png)
 
 ---
 
